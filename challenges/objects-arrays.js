@@ -45,7 +45,7 @@ console.log(`The ${tyrannosaurus.name} weights ${tyrannosaurus.weigth}`);
 console.log(`The ${velociraptor.name} diet is ${velociraptor.diet}`);
 
 // How long was a stegosaurus?
-console.log(`The ${stegosaurus.name} diet is ${stegosaurus.length}`);
+console.log(`The ${stegosaurus.name} length is ${stegosaurus.length} long`);
 
 // What time period did tyrannosaurus live in?
 console.log(`The ${tyrannosaurus.name} lived in the ${tyrannosaurus.period}`);
